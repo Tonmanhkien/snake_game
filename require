@@ -1,0 +1,4 @@
+conda create -n 'snake_game' python=3.8
+conda activate snake_game
+pip3 install torch torchvision torchaudio
+pip install pygame
